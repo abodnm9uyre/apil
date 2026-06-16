@@ -1,0 +1,40 @@
+{
+    "channels": [
+        {
+            "name": "BeinMax1",
+            "logo": "",
+            "stream_id": "Bemax1",
+            "package_id": "Beinmaxnetlow"
+        },
+        {
+            "name": "BeinMax2",
+            "logo": "",
+            "stream_id": "Beimax2",
+            "package_id": "Beinmaxnetlow"
+        },
+        {
+            "name": "BeinMax3",
+            "logo": "",
+            "stream_id": "BeiMax3",
+            "package_id": "Beinmaxnetlow"
+        },
+        {
+            "name": "BeSyria1",
+            "logo": "https:\/\/ar-hosting.pages.dev\/1781191491221.png",
+            "stream_id": "Besyria1",
+            "package_id": "BeSyria"
+        },
+        {
+            "name": "BeSyria2",
+            "logo": "https:\/\/ar-hosting.pages.dev\/1781191491221.png",
+            "stream_id": "BeSyria2",
+            "package_id": "BeSyria"
+        },
+        {
+            "name": "BeSyria3",
+            "logo": "https:\/\/ar-hosting.pages.dev\/1781191491221.png",
+            "stream_id": "BeSyria3",
+            "package_id": "BeSyria"
+        }
+    ]
+}

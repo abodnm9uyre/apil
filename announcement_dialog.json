@@ -1,0 +1,13 @@
+{
+    "announcement": {
+        "enabled": true,
+        "show_mode": "always",
+        "version": "1",
+        "title": "مرحباً بك في DAX TV 🎉",
+        "message": "نُعلن عن إطلاق النسخة الجديدة مع تحسينات كبيرة في جودة البث وسرعة التحميل. استمتع بتجربة مشاهدة أفضل!",
+        "button_action": "join",
+        "action_url": "https:\/\/t.me\/DAXTV1",
+        "button_ok_text": "انضمام",
+        "button_cancel_text": "لاحقاً"
+    }
+}

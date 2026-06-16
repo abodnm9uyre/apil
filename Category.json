@@ -1,0 +1,48 @@
+{
+    "ad_enabled": "off",
+    "ad_url": "رابط_صفحة_الاعلانات_هنا",
+    "packages": [
+        {
+            "name": "Server1",
+            "id": "pkg_legend",
+            "apiUrl": "http:\/\/go8knm.optikl.ink\/Oapi\/api.php?action=category&cat_id=1"
+        },
+        {
+            "name": "مسلسلات رمضان 2026",
+            "id": "pkg_legend",
+            "apiUrl": "http:\/\/go8knm.optikl.ink\/Oapi\/api.php?action=category&cat_id=31"
+        },
+        {
+            "name": "Server2",
+            "id": "pkg_albasha",
+            "apiUrl": "http:\/\/go8knm.optikl.ink\/Albsh\/api.php",
+            "type": "albasha"
+        },
+        {
+            "name": "Bein Max(انترنت ضعيف)",
+            "id": "Beinmaxnetlow",
+            "apiUrl": ""
+        },
+        {
+            "name": "تابعنا على تيلجرامhttps:\/\/t.me\/DAXTV1",
+            "id": "T.me",
+            "apiUrl": ""
+        },
+        {
+            "name": "BeSyria",
+            "id": "BeSyria",
+            "apiUrl": ""
+        },
+        {
+            "name": "WorldCup",
+            "id": "World",
+            "apiUrl": "http:\/\/go8knm.optikl.ink\/Oapi\/api.php?action=category&cat_id=32"
+        },
+        {
+            "name": "Server3",
+            "id": "pkg_ro",
+            "apiUrl": "http:\/\/go8knm.optikl.ink\/Ro\/api.php?action=all",
+            "type": "ro"
+        }
+    ]
+}

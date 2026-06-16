@@ -1,0 +1,142 @@
+{
+    "urls": [
+        {
+            "stream_id": "Bemax1",
+            "servers": [
+                {
+                    "name": "240p",
+                    "url": "http:\/\/het4444.ycn-redirect.com\/live\/181818444\/index.m3u8",
+                    "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/139.0.0.0 Safari\/537.36",
+                    "referer": "",
+                    "origin": "",
+                    "cookie": "",
+                    "drm": ""
+                },
+                {
+                    "name": "360p",
+                    "url": "http:\/\/het4444.ycn-redirect.com\/live\/115451004\/index.m3u8",
+                    "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/139.0.0.0 Safari\/537.36",
+                    "referer": "",
+                    "origin": "",
+                    "cookie": "",
+                    "drm": ""
+                },
+                {
+                    "name": "720p",
+                    "url": "http:\/\/het4444.ycn-redirect.com\/live\/610303030\/index.m3u8",
+                    "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/139.0.0.0 Safari\/537.36",
+                    "referer": "",
+                    "origin": "",
+                    "cookie": "",
+                    "drm": ""
+                }
+            ]
+        },
+        {
+            "stream_id": "Beimax2",
+            "servers": [
+                {
+                    "name": "240p",
+                    "url": "http:\/\/het4444.ycn-redirect.com\/live\/9883322\/index.m3u8",
+                    "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/139.0.0.0 Safari\/537.36",
+                    "referer": "",
+                    "origin": "",
+                    "cookie": "",
+                    "drm": ""
+                },
+                {
+                    "name": "360p",
+                    "url": "http:\/\/het4444.ycn-redirect.com\/live\/788550011\/index.m3u8",
+                    "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/139.0.0.0 Safari\/537.36",
+                    "referer": "",
+                    "origin": "",
+                    "cookie": "",
+                    "drm": ""
+                },
+                {
+                    "name": "720p",
+                    "url": "http:\/\/het4444.ycn-redirect.com\/live\/1515000000\/index.m3u8",
+                    "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/139.0.0.0 Safari\/537.36",
+                    "referer": "",
+                    "origin": "",
+                    "cookie": "",
+                    "drm": ""
+                }
+            ]
+        },
+        {
+            "stream_id": "BeiMax3",
+            "servers": [
+                {
+                    "name": "240p",
+                    "url": "http:\/\/het4444.ycn-redirect.com\/live\/79247621\/index.m3u8",
+                    "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/139.0.0.0 Safari\/537.36",
+                    "referer": "",
+                    "origin": "",
+                    "cookie": "",
+                    "drm": ""
+                },
+                {
+                    "name": "360p",
+                    "url": "http:\/\/het4444.ycn-redirect.com\/live\/14066007\/index.m3u8",
+                    "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/139.0.0.0 Safari\/537.36",
+                    "referer": "",
+                    "origin": "",
+                    "cookie": "",
+                    "drm": ""
+                },
+                {
+                    "name": "720p",
+                    "url": "http:\/\/het4444.ycn-redirect.com\/live\/33523510\/index.m3u8",
+                    "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/139.0.0.0 Safari\/537.36",
+                    "referer": "",
+                    "origin": "",
+                    "cookie": "",
+                    "drm": ""
+                }
+            ]
+        },
+        {
+            "stream_id": "Besyria1",
+            "servers": [
+                {
+                    "name": "Multi",
+                    "url": "http:\/\/go8knm.optikl.ink\/X\/index.php\/Besyria1\/video.m3u8",
+                    "user_agent": "",
+                    "referer": "",
+                    "origin": "",
+                    "cookie": "",
+                    "drm": ""
+                }
+            ]
+        },
+        {
+            "stream_id": "BeSyria2",
+            "servers": [
+                {
+                    "name": "Multi",
+                    "url": "http:\/\/go8knm.optikl.ink\/X\/index.php\/Besyria2\/video.m3u8",
+                    "user_agent": "",
+                    "referer": "",
+                    "origin": "",
+                    "cookie": "",
+                    "drm": ""
+                }
+            ]
+        },
+        {
+            "stream_id": "BeSyria3",
+            "servers": [
+                {
+                    "name": "Multi",
+                    "url": "http:\/\/go8knm.optikl.ink\/X\/index.php\/Besyria3\/video.m3u8",
+                    "user_agent": "",
+                    "referer": "",
+                    "origin": "",
+                    "cookie": "",
+                    "drm": ""
+                }
+            ]
+        }
+    ]
+}
