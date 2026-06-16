@@ -43,6 +43,12 @@
             "id": "pkg_ro",
             "apiUrl": "http:\/\/go8knm.optikl.ink\/Ro\/api.php?action=all",
             "type": "ro"
+        },
+        {
+            "name": "تست",
+            "id": "pkg_007",
+            "apiUrl": "Hhh",
+            "apiKey": "I"
         }
     ]
 }
